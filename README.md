@@ -1,7 +1,7 @@
-# Soomin
-timePicker
+HEOSOOMIN
 ==========
-A time picker control for textfields built using jQuery. Inspired by Google Calendar.
+hi. my name is heosoomin. 
+
 
 Examples
 --------
