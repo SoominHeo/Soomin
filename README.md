@@ -34,3 +34,6 @@ var i = 0;
 
 var i = 0;
 * 숫자 리스트로 하면 숫자가 유지됩니다.
+
+
+i like handong
