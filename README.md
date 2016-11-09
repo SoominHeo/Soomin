@@ -2,7 +2,7 @@
 ''There is a literal backtick (') here. ''
 
 
-`There is a literal backtick (\\`) here. `
+`There is a literal backtick (\`) here. `
 ``There is a literal backtick (`) here. ``
 
 
