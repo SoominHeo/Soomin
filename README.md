@@ -9,6 +9,12 @@ GFM은
 >###어렵지 않습니다.
 코드 표현방법
 ————-
+
+#1
+mojombo#1
+mojombo/github=flavored-markdown#1
+
+
 “`
 var i = 0
 “`
