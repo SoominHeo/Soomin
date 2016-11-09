@@ -12,6 +12,14 @@ GFM은
 “`
 var i = 0
 “`
+```
+    def abc():
+        print (hi)
+```
+```
+def abc():
+    print (hi)
+```
 
 var foo = “bar”
 <html> </html>
