@@ -1,7 +1,6 @@
 `aaa`bbb
 ``aaa``bbb
 ```aaa```bbb
-````aaa````bbb
 
 
 abc #Header
